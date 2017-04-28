@@ -1,0 +1,29 @@
+.planet-fields {
+  width: 300px;
+  margin: 20px auto;
+  font-size: 0.8em;
+  color: black;
+  background-color: #ffffff;
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
+}
+
+.name {
+  width: 100%;
+  text-align: center;
+}
+
+.planet-container {
+  width: 100%;
+}
+
+.planet-details {
+  padding: 25px;
+}
+
+.field {
+  font-weight: bold;
+}
+
+.value {
+  font-weight: 100;
+}
